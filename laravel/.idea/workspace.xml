@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b35d576-9495-4281-8cf8-78700af8d299" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://PHP/C:/xampp/htdocs/tbapp">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>PHP</ID>
+              <OriginalElement>$PROJECT_DIR$</OriginalElement>
+              <nodes>
+                <node x="0.0" y="2624.0">\Illuminate\Auth\Passwords\CanResetPassword</node>
+                <node x="2995.25" y="440.0">\Illuminate\Database\Eloquent\Concerns\HasEvents</node>
+                <node x="1048.2500000000002" y="638.0">\Illuminate\Database\Eloquent\Concerns\HidesAttributes</node>
+                <node x="691.0000000000001" y="2580.0">\Illuminate\Auth\Authenticatable</node>
+                <node x="3256.25" y="715.0">\Illuminate\Contracts\Support\Arrayable</node>
+                <node x="2258.25" y="275.0">\Illuminate\Database\Eloquent\Concerns\HasRelationships</node>
+                <node x="3742.25" y="0.0">$PROJECT_DIR$/app/Providers</node>
+                <node x="847.5000000000001" y="3862.0">\Illuminate\Foundation\Auth\User</node>
+                <node x="4004.25" y="0.0">$PROJECT_DIR$/routes</node>
+                <node x="452.0" y="2613.0">\Illuminate\Auth\MustVerifyEmail</node>
+                <node x="258.0" y="2613.0">\Illuminate\Foundation\Auth\Access\Authorizable</node>
+                <node x="1514.3125" y="3961.0">\App\User</node>
+                <node x="849.2500000000002" y="693.0">\Illuminate\Contracts\Routing\UrlRoutable</node>
+                <node x="1917.2500000000002" y="715.0">\JsonSerializable</node>
+                <node x="2051.03125" y="2613.0">\Illuminate\Notifications\RoutesNotifications</node>
+                <node x="1535.6875" y="3862.0">\App\Ruang</node>
+                <node x="1498.2500000000002" y="704.0">\Illuminate\Support\Traits\ForwardsCalls</node>
+                <node x="1903.6875" y="3851.0">\App\Matkul</node>
+                <node x="1781.2500000000002" y="715.0">\Illuminate\Contracts\Support\Jsonable</node>
+                <node x="1436.6875" y="3862.0">\App\Jurusan</node>
+                <node x="1620.6875" y="3862.0">\App\Surat</node>
+                <node x="677.2500000000002" y="682.0">\ArrayAccess</node>
+                <node x="2318.03125" y="2613.0">\Illuminate\Notifications\HasDatabaseNotifications</node>
+                <node x="3880.25" y="0.0">$PROJECT_DIR$/app/Console</node>
+                <node x="1997.6875" y="3840.0">\App\Dosen</node>
+                <node x="2245.78125" y="3862.0">\Illuminate\Notifications\Notifiable</node>
+                <node x="1705.6875" y="3862.0">\App\Kurikulum</node>
+                <node x="3597.25" y="0.0">$PROJECT_DIR$/app/Exceptions</node>
+                <node x="1327.0" y="2580.0">\Illuminate\Contracts\Auth\Authenticatable</node>
+                <node x="303.2500000000002" y="0.0">\Illuminate\Database\Eloquent\Concerns\HasAttributes</node>
+                <node x="1529.0" y="1579.0">\Illuminate\Database\Eloquent\Model</node>
+                <node x="4121.25" y="0.0">$PROJECT_DIR$/app/Http</node>
+                <node x="893.0000000000001" y="2635.0">\Illuminate\Contracts\Auth\Access\Authorizable</node>
+                <node x="105.25000000000023" y="693.0">\Illuminate\Contracts\Queue\QueueableEntity</node>
+                <node x="1069.0" y="2624.0">\Illuminate\Contracts\Auth\CanResetPassword</node>
+                <node x="2079.25" y="627.0">\Illuminate\Database\Eloquent\Concerns\HasTimestamps</node>
+                <node x="1818.6875" y="3862.0">\App\Waktu</node>
+                <node x="3369.25" y="594.0">\Illuminate\Database\Eloquent\Concerns\GuardsAttributes</node>
+                <node x="1228.2500000000002" y="682.0">\Illuminate\Database\Eloquent\Concerns\HasGlobalScopes</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Auth\MustVerifyEmail">
+                  <point x="-10.875" y="-13.5" />
+                  <point x="865.6250000000001" y="3800.0" />
+                  <point x="561.5" y="3800.0" />
+                  <point x="0.0" y="46.5" />
+                </edge>
+                <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Contracts\Auth\Access\Authorizable">
+                  <point x="3.625" y="-13.5" />
+                  <point x="880.1250000000001" y="3760.0" />
+                  <point x="971.0000000000001" y="3760.0" />
+                  <point x="0.0" y="24.5" />
+                </edge>
+                <edge source="\Illuminate\Notifications\Notifiable" target="\Illuminate\Notifications\HasDatabaseNotifications">
+                  <point x="25.0" y="-13.5" />
+                  <point x="2320.78125" y="3820.0" />
+                  <point x="2417.03125" y="3820.0" />
+                  <point x="0.0" y="46.5" />
+                </edge>
+                <edge source="\App\Ruang" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="0.0" y="-13.5" />
+                  <point x="1568.1875" y="3810.0" />
+                  <point x="1657.4375" y="3810.0" />
+                  <point x="-77.0625" y="1080.5" />
+                </edge>
+                <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Auth\Authenticatable">
+                  <point x="-3.625" y="-13.5" />
+                  <point x="872.8750000000001" y="3790.0" />
+                  <point x="782.0000000000001" y="3790.0" />
+                  <point x="0.0" y="79.5" />
+                </edge>
+                <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Auth\Passwords\CanResetPassword">
+                  <point x="-25.375" y="-13.5" />
+                  <point x="851.1250000000001" y="3820.0" />
+                  <point x="119.0" y="3820.0" />
+                  <point x="0.0" y="35.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\HasRelationships">
+                  <point x="102.75" y="-1080.5" />
+                  <point x="1837.25" y="1529.0" />
+                  <point x="2616.75" y="1529.0" />
+                  <point x="0.0" y="464.5" />
+                </edge>
+                <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Contracts\Auth\Authenticatable">
+                  <point x="18.125" y="-13.5" />
+                  <point x="894.6250000000001" y="3780.0" />
+                  <point x="1418.0" y="3780.0" />
+                  <point x="0.0" y="79.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\HidesAttributes">
+                  <point x="-73.39285714285711" y="-1080.5" />
+                  <point x="1661.1071428571431" y="1519.0" />
+                  <point x="1128.2500000000002" y="1519.0" />
+                  <point x="0.0" y="101.5" />
+                </edge>
+                <edge source="\App\Matkul" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="0.0" y="-24.5" />
+                  <point x="1940.6875" y="3820.0" />
+                  <point x="1862.9375" y="3820.0" />
+                  <point x="128.4375" y="1080.5" />
+                </edge>
+                <edge source="\App\User" target="\Illuminate\Notifications\Notifiable">
+                  <point x="14.5" y="-13.5" />
+                  <point x="1557.8125" y="3936.0" />
+                  <point x="2295.78125" y="3936.0" />
+                  <point x="0.0" y="13.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\GuardsAttributes">
+                  <point x="190.82142857142867" y="-1080.5" />
+                  <point x="1925.321428571429" y="1559.0" />
+                  <point x="3460.75" y="1559.0" />
+                  <point x="0.0" y="145.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\HasEvents">
+                  <point x="132.1071428571429" y="-1080.5" />
+                  <point x="1866.6071428571431" y="1539.0" />
+                  <point x="3115.75" y="1539.0" />
+                  <point x="0.0" y="299.5" />
+                </edge>
+                <edge source="\App\Surat" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="0.0" y="-13.5" />
+                  <point x="1653.1875" y="3820.0" />
+                  <point x="1708.8125" y="3820.0" />
+                  <point x="-25.6875" y="1080.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\HasAttributes">
+                  <point x="-161.46428571428555" y="-1080.5" />
+                  <point x="1573.0357142857147" y="1549.0" />
+                  <point x="480.2500000000002" y="1549.0" />
+                  <point x="0.0" y="739.5" />
+                </edge>
+                <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Foundation\Auth\Access\Authorizable">
+                  <point x="-18.125" y="-13.5" />
+                  <point x="858.3750000000001" y="3810.0" />
+                  <point x="345.0" y="3810.0" />
+                  <point x="0.0" y="46.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\HasGlobalScopes">
+                  <point x="-44.03571428571422" y="-1080.5" />
+                  <point x="1690.4642857142858" y="1509.0" />
+                  <point x="1353.2500000000002" y="1509.0" />
+                  <point x="0.0" y="57.5" />
+                </edge>
+                <edge source="\App\Waktu" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="0.0" y="-13.5" />
+                  <point x="1851.1875" y="3820.0" />
+                  <point x="1811.5625" y="3820.0" />
+                  <point x="77.0625" y="1080.5" />
+                </edge>
+                <edge source="\App\Kurikulum" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="0.0" y="-13.5" />
+                  <point x="1752.1875" y="3820.0" />
+                  <point x="1760.1875" y="3820.0" />
+                  <point x="25.6875" y="1080.5" />
+                </edge>
+                <edge source="\App\Jurusan" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="0.0" y="-13.5" />
+                  <point x="1476.1875" y="3800.0" />
+                  <point x="1606.0625" y="3800.0" />
+                  <point x="-128.4375" y="1080.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\HasTimestamps">
+                  <point x="73.39285714285711" y="-1080.5" />
+                  <point x="1807.8928571428573" y="1519.0" />
+                  <point x="2158.75" y="1519.0" />
+                  <point x="0.0" y="112.5" />
+                </edge>
+                <edge source="\App\User" target="\Illuminate\Foundation\Auth\User">
+                  <point x="-14.5" y="-13.5" />
+                  <point x="1528.8125" y="3936.0" />
+                  <point x="876.5000000000001" y="3936.0" />
+                  <point x="0.0" y="13.5" />
+                </edge>
+                <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="25.375" y="-13.5" />
+                  <point x="901.8750000000001" y="3790.0" />
+                  <point x="1554.6875" y="3790.0" />
+                  <point x="-179.8125" y="1080.5" />
+                </edge>
+                <edge source="\Illuminate\Notifications\Notifiable" target="\Illuminate\Notifications\RoutesNotifications">
+                  <point x="-25.0" y="-13.5" />
+                  <point x="2270.78125" y="3820.0" />
+                  <point x="2174.53125" y="3820.0" />
+                  <point x="0.0" y="46.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Support\Arrayable">
+                  <point x="161.46428571428578" y="-1080.5" />
+                  <point x="1895.9642857142858" y="1549.0" />
+                  <point x="3302.75" y="1549.0" />
+                  <point x="0.0" y="24.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Routing\UrlRoutable">
+                  <point x="-102.75" y="-1080.5" />
+                  <point x="1631.75" y="1529.0" />
+                  <point x="938.7500000000002" y="1529.0" />
+                  <point x="0.0" y="46.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Queue\QueueableEntity">
+                  <point x="-190.82142857142844" y="-1080.5" />
+                  <point x="1543.6785714285716" y="1559.0" />
+                  <point x="194.25000000000023" y="1559.0" />
+                  <point x="0.0" y="46.5" />
+                </edge>
+                <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Contracts\Auth\CanResetPassword">
+                  <point x="10.875" y="-13.5" />
+                  <point x="887.3750000000001" y="3770.0" />
+                  <point x="1188.0" y="3770.0" />
+                  <point x="0.0" y="35.5" />
+                </edge>
+                <edge source="\App\Dosen" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="0.0" y="-35.5" />
+                  <point x="2044.1875" y="3810.0" />
+                  <point x="1914.3125" y="3810.0" />
+                  <point x="179.8125" y="1080.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\ArrayAccess">
+                  <point x="-132.10714285714266" y="-1080.5" />
+                  <point x="1602.3928571428573" y="1539.0" />
+                  <point x="753.2500000000002" y="1539.0" />
+                  <point x="0.0" y="57.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Support\Jsonable">
+                  <point x="14.678571428571558" y="-1080.5" />
+                  <point x="1749.1785714285716" y="1499.0" />
+                  <point x="1839.2500000000002" y="1499.0" />
+                  <point x="0.0" y="24.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Support\Traits\ForwardsCalls">
+                  <point x="-14.678571428571331" y="-1080.5" />
+                  <point x="1719.821428571429" y="1499.0" />
+                  <point x="1629.7500000000002" y="1499.0" />
+                  <point x="0.0" y="35.5" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\JsonSerializable">
+                  <point x="44.03571428571422" y="-1080.5" />
+                  <point x="1778.5357142857142" y="1509.0" />
+                  <point x="1988.2500000000002" y="1509.0" />
+                  <point x="0.0" y="24.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="2331.0" y="156.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Methods</Category>
+              </Categories>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/bartlett/umlwriter" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b35d576-9495-4281-8cf8-78700af8d299" name="Default Changelist" comment="" />
+      <created>1559052304032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559052304032</updated>
+      <workItem from="1559052309931" duration="1133000" />
+      <workItem from="1559053670758" duration="631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1764000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49880096" visible="true" weight="0.24659607" />
+      <window_info id="Structure" order="1" sideWeight="0.50119907" side_tool="true" weight="0.24281392" />
+      <window_info id="npm" order="2" sideWeight="0.50119907" side_tool="true" weight="0.24281392" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32850242" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://PHP/C:/xampp/htdocs/tbapp">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="0.0" y="2624.0">\Illuminate\Auth\Passwords\CanResetPassword</node>
+            <node x="2995.25" y="440.0">\Illuminate\Database\Eloquent\Concerns\HasEvents</node>
+            <node x="1048.2500000000002" y="638.0">\Illuminate\Database\Eloquent\Concerns\HidesAttributes</node>
+            <node x="691.0000000000001" y="2580.0">\Illuminate\Auth\Authenticatable</node>
+            <node x="3256.25" y="715.0">\Illuminate\Contracts\Support\Arrayable</node>
+            <node x="2258.25" y="275.0">\Illuminate\Database\Eloquent\Concerns\HasRelationships</node>
+            <node x="3742.25" y="0.0">$PROJECT_DIR$/app/Providers</node>
+            <node x="847.5000000000001" y="3862.0">\Illuminate\Foundation\Auth\User</node>
+            <node x="4004.25" y="0.0">$PROJECT_DIR$/routes</node>
+            <node x="452.0" y="2613.0">\Illuminate\Auth\MustVerifyEmail</node>
+            <node x="258.0" y="2613.0">\Illuminate\Foundation\Auth\Access\Authorizable</node>
+            <node x="1514.3125" y="3961.0">\App\User</node>
+            <node x="849.2500000000002" y="693.0">\Illuminate\Contracts\Routing\UrlRoutable</node>
+            <node x="1917.2500000000002" y="715.0">\JsonSerializable</node>
+            <node x="2051.03125" y="2613.0">\Illuminate\Notifications\RoutesNotifications</node>
+            <node x="1535.6875" y="3862.0">\App\Ruang</node>
+            <node x="1498.2500000000002" y="704.0">\Illuminate\Support\Traits\ForwardsCalls</node>
+            <node x="1903.6875" y="3851.0">\App\Matkul</node>
+            <node x="1781.2500000000002" y="715.0">\Illuminate\Contracts\Support\Jsonable</node>
+            <node x="1436.6875" y="3862.0">\App\Jurusan</node>
+            <node x="1620.6875" y="3862.0">\App\Surat</node>
+            <node x="677.2500000000002" y="682.0">\ArrayAccess</node>
+            <node x="2318.03125" y="2613.0">\Illuminate\Notifications\HasDatabaseNotifications</node>
+            <node x="3880.25" y="0.0">$PROJECT_DIR$/app/Console</node>
+            <node x="1997.6875" y="3840.0">\App\Dosen</node>
+            <node x="2245.78125" y="3862.0">\Illuminate\Notifications\Notifiable</node>
+            <node x="1705.6875" y="3862.0">\App\Kurikulum</node>
+            <node x="3597.25" y="0.0">$PROJECT_DIR$/app/Exceptions</node>
+            <node x="1327.0" y="2580.0">\Illuminate\Contracts\Auth\Authenticatable</node>
+            <node x="303.2500000000002" y="0.0">\Illuminate\Database\Eloquent\Concerns\HasAttributes</node>
+            <node x="1529.0" y="1579.0">\Illuminate\Database\Eloquent\Model</node>
+            <node x="4121.25" y="0.0">$PROJECT_DIR$/app/Http</node>
+            <node x="893.0000000000001" y="2635.0">\Illuminate\Contracts\Auth\Access\Authorizable</node>
+            <node x="105.25000000000023" y="693.0">\Illuminate\Contracts\Queue\QueueableEntity</node>
+            <node x="1069.0" y="2624.0">\Illuminate\Contracts\Auth\CanResetPassword</node>
+            <node x="2079.25" y="627.0">\Illuminate\Database\Eloquent\Concerns\HasTimestamps</node>
+            <node x="1818.6875" y="3862.0">\App\Waktu</node>
+            <node x="3369.25" y="594.0">\Illuminate\Database\Eloquent\Concerns\GuardsAttributes</node>
+            <node x="1228.2500000000002" y="682.0">\Illuminate\Database\Eloquent\Concerns\HasGlobalScopes</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Auth\MustVerifyEmail">
+              <point x="-10.875" y="-13.5" />
+              <point x="865.6250000000001" y="3800.0" />
+              <point x="561.5" y="3800.0" />
+              <point x="0.0" y="46.5" />
+            </edge>
+            <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Contracts\Auth\Access\Authorizable">
+              <point x="3.625" y="-13.5" />
+              <point x="880.1250000000001" y="3760.0" />
+              <point x="971.0000000000001" y="3760.0" />
+              <point x="0.0" y="24.5" />
+            </edge>
+            <edge source="\Illuminate\Notifications\Notifiable" target="\Illuminate\Notifications\HasDatabaseNotifications">
+              <point x="25.0" y="-13.5" />
+              <point x="2320.78125" y="3820.0" />
+              <point x="2417.03125" y="3820.0" />
+              <point x="0.0" y="46.5" />
+            </edge>
+            <edge source="\App\Ruang" target="\Illuminate\Database\Eloquent\Model">
+              <point x="0.0" y="-13.5" />
+              <point x="1568.1875" y="3810.0" />
+              <point x="1657.4375" y="3810.0" />
+              <point x="-77.0625" y="1080.5" />
+            </edge>
+            <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Auth\Authenticatable">
+              <point x="-3.625" y="-13.5" />
+              <point x="872.8750000000001" y="3790.0" />
+              <point x="782.0000000000001" y="3790.0" />
+              <point x="0.0" y="79.5" />
+            </edge>
+            <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Auth\Passwords\CanResetPassword">
+              <point x="-25.375" y="-13.5" />
+              <point x="851.1250000000001" y="3820.0" />
+              <point x="119.0" y="3820.0" />
+              <point x="0.0" y="35.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\HasRelationships">
+              <point x="102.75" y="-1080.5" />
+              <point x="1837.25" y="1529.0" />
+              <point x="2616.75" y="1529.0" />
+              <point x="0.0" y="464.5" />
+            </edge>
+            <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Contracts\Auth\Authenticatable">
+              <point x="18.125" y="-13.5" />
+              <point x="894.6250000000001" y="3780.0" />
+              <point x="1418.0" y="3780.0" />
+              <point x="0.0" y="79.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\HidesAttributes">
+              <point x="-73.39285714285711" y="-1080.5" />
+              <point x="1661.1071428571431" y="1519.0" />
+              <point x="1128.2500000000002" y="1519.0" />
+              <point x="0.0" y="101.5" />
+            </edge>
+            <edge source="\App\Matkul" target="\Illuminate\Database\Eloquent\Model">
+              <point x="0.0" y="-24.5" />
+              <point x="1940.6875" y="3820.0" />
+              <point x="1862.9375" y="3820.0" />
+              <point x="128.4375" y="1080.5" />
+            </edge>
+            <edge source="\App\User" target="\Illuminate\Notifications\Notifiable">
+              <point x="14.5" y="-13.5" />
+              <point x="1557.8125" y="3936.0" />
+              <point x="2295.78125" y="3936.0" />
+              <point x="0.0" y="13.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\GuardsAttributes">
+              <point x="190.82142857142867" y="-1080.5" />
+              <point x="1925.321428571429" y="1559.0" />
+              <point x="3460.75" y="1559.0" />
+              <point x="0.0" y="145.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\HasEvents">
+              <point x="132.1071428571429" y="-1080.5" />
+              <point x="1866.6071428571431" y="1539.0" />
+              <point x="3115.75" y="1539.0" />
+              <point x="0.0" y="299.5" />
+            </edge>
+            <edge source="\App\Surat" target="\Illuminate\Database\Eloquent\Model">
+              <point x="0.0" y="-13.5" />
+              <point x="1653.1875" y="3820.0" />
+              <point x="1708.8125" y="3820.0" />
+              <point x="-25.6875" y="1080.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\HasAttributes">
+              <point x="-161.46428571428555" y="-1080.5" />
+              <point x="1573.0357142857147" y="1549.0" />
+              <point x="480.2500000000002" y="1549.0" />
+              <point x="0.0" y="739.5" />
+            </edge>
+            <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Foundation\Auth\Access\Authorizable">
+              <point x="-18.125" y="-13.5" />
+              <point x="858.3750000000001" y="3810.0" />
+              <point x="345.0" y="3810.0" />
+              <point x="0.0" y="46.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\HasGlobalScopes">
+              <point x="-44.03571428571422" y="-1080.5" />
+              <point x="1690.4642857142858" y="1509.0" />
+              <point x="1353.2500000000002" y="1509.0" />
+              <point x="0.0" y="57.5" />
+            </edge>
+            <edge source="\App\Waktu" target="\Illuminate\Database\Eloquent\Model">
+              <point x="0.0" y="-13.5" />
+              <point x="1851.1875" y="3820.0" />
+              <point x="1811.5625" y="3820.0" />
+              <point x="77.0625" y="1080.5" />
+            </edge>
+            <edge source="\App\Kurikulum" target="\Illuminate\Database\Eloquent\Model">
+              <point x="0.0" y="-13.5" />
+              <point x="1752.1875" y="3820.0" />
+              <point x="1760.1875" y="3820.0" />
+              <point x="25.6875" y="1080.5" />
+            </edge>
+            <edge source="\App\Jurusan" target="\Illuminate\Database\Eloquent\Model">
+              <point x="0.0" y="-13.5" />
+              <point x="1476.1875" y="3800.0" />
+              <point x="1606.0625" y="3800.0" />
+              <point x="-128.4375" y="1080.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Database\Eloquent\Concerns\HasTimestamps">
+              <point x="73.39285714285711" y="-1080.5" />
+              <point x="1807.8928571428573" y="1519.0" />
+              <point x="2158.75" y="1519.0" />
+              <point x="0.0" y="112.5" />
+            </edge>
+            <edge source="\App\User" target="\Illuminate\Foundation\Auth\User">
+              <point x="-14.5" y="-13.5" />
+              <point x="1528.8125" y="3936.0" />
+              <point x="876.5000000000001" y="3936.0" />
+              <point x="0.0" y="13.5" />
+            </edge>
+            <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Database\Eloquent\Model">
+              <point x="25.375" y="-13.5" />
+              <point x="901.8750000000001" y="3790.0" />
+              <point x="1554.6875" y="3790.0" />
+              <point x="-179.8125" y="1080.5" />
+            </edge>
+            <edge source="\Illuminate\Notifications\Notifiable" target="\Illuminate\Notifications\RoutesNotifications">
+              <point x="-25.0" y="-13.5" />
+              <point x="2270.78125" y="3820.0" />
+              <point x="2174.53125" y="3820.0" />
+              <point x="0.0" y="46.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Support\Arrayable">
+              <point x="161.46428571428578" y="-1080.5" />
+              <point x="1895.9642857142858" y="1549.0" />
+              <point x="3302.75" y="1549.0" />
+              <point x="0.0" y="24.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Routing\UrlRoutable">
+              <point x="-102.75" y="-1080.5" />
+              <point x="1631.75" y="1529.0" />
+              <point x="938.7500000000002" y="1529.0" />
+              <point x="0.0" y="46.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Queue\QueueableEntity">
+              <point x="-190.82142857142844" y="-1080.5" />
+              <point x="1543.6785714285716" y="1559.0" />
+              <point x="194.25000000000023" y="1559.0" />
+              <point x="0.0" y="46.5" />
+            </edge>
+            <edge source="\Illuminate\Foundation\Auth\User" target="\Illuminate\Contracts\Auth\CanResetPassword">
+              <point x="10.875" y="-13.5" />
+              <point x="887.3750000000001" y="3770.0" />
+              <point x="1188.0" y="3770.0" />
+              <point x="0.0" y="35.5" />
+            </edge>
+            <edge source="\App\Dosen" target="\Illuminate\Database\Eloquent\Model">
+              <point x="0.0" y="-35.5" />
+              <point x="2044.1875" y="3810.0" />
+              <point x="1914.3125" y="3810.0" />
+              <point x="179.8125" y="1080.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\ArrayAccess">
+              <point x="-132.10714285714266" y="-1080.5" />
+              <point x="1602.3928571428573" y="1539.0" />
+              <point x="753.2500000000002" y="1539.0" />
+              <point x="0.0" y="57.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Support\Jsonable">
+              <point x="14.678571428571558" y="-1080.5" />
+              <point x="1749.1785714285716" y="1499.0" />
+              <point x="1839.2500000000002" y="1499.0" />
+              <point x="0.0" y="24.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Support\Traits\ForwardsCalls">
+              <point x="-14.678571428571331" y="-1080.5" />
+              <point x="1719.821428571429" y="1499.0" />
+              <point x="1629.7500000000002" y="1499.0" />
+              <point x="0.0" y="35.5" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\JsonSerializable">
+              <point x="44.03571428571422" y="-1080.5" />
+              <point x="1778.5357142857142" y="1509.0" />
+              <point x="1988.2500000000002" y="1509.0" />
+              <point x="0.0" y="24.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="2331.0" y="156.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
